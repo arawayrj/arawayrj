@@ -1,4 +1,6 @@
-### Hi there 👋
+# RJ Araway
+## About Me
+I am currently a senior at Central Michigan University. I'm studying computer science with minors in math, information systems, and philosophy. I am interested in working on projects that interact with the "real world" like drones and industrial control systems.
 
 <!--
 **arawayrj/arawayrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
